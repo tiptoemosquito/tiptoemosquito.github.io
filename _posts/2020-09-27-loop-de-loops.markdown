@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Loop-de-Loops**"
-date:       2020-09-28 00:59:17 +0000
+title:      "Loop-de-Loops"
+date:       2020-09-27 20:59:18 -0400
 permalink:  loop-de-loops
 ---
 
