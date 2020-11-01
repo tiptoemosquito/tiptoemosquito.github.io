@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "STRESSful Routes"
-date:       2020-11-01 15:53:26 +0000
+date:       2020-11-01 10:53:27 -0500
 permalink:  stressful_routes
 ---
 
